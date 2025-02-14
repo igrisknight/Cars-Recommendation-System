@@ -1,0 +1,19 @@
+Id,Company,Model,Variant,FuelType,Colour,Kilometer,BodyStyle,TransmissionType,ManufactureDate,ModelYear,CngKit,Price,Owner,DealerState,DealerName,City,Warranty,QualityScore,HasCNG
+555675,Maruti Suzuki,CELERIO(2017-2019),1.0 ZXI AMT O,PETROL,Silver,33197,HATCHBACK,,2018-01-02,2018,,575000.0,1.0,Karnataka,Top Gear Cars,Bangalore,1,7.8,0
+556383,Maruti Suzuki,ALTO,LXI,PETROL,Red,10322,HATCHBACK,Manual,2021-01-03,2021,,434999.99999999994,1.0,Karnataka,Renew 4 u Automobiles PVT Ltd ,Bangalore,1,8.3,0
+556422,Hyundai,GRAND I10,1.2 KAPPA ASTA,PETROL,Grey,37889,HATCHBACK,Manual,2015-01-03,2015,,470000.0,1.0,Karnataka,Anant Cars Auto Pvt Ltd,Bangalore,1,7.9,0
+556771,Tata,NEXON,XT PLUS,PETROL,Blue,13106,HATCHBACK,,2020-01-08,2020,,990000.0,1.0,Karnataka,Adeep Motors,Bangalore,1,8.1,0
+559619,Ford,FIGO,EXI DURATORQ 1.4,DIESEL,Silver,104614,HATCHBACK,Manual,2010-01-11,2010,,270000.0,2.0,Karnataka,Zippy Automart,Bangalore,0,7.5,0
+559682,Mercedes Benz,E CLASS,E 250 CDI AVANTGARDE,DIESEL,Black,87700,SEDAN,Automatic,2013-01-04,2013,,999000.0,3.0,Karnataka,Zippy Automart,Bangalore,0,7.2,0
+560083,Volkswagen,AMEO,HIGHLINE DIESEL DSG,DIESEL,Blue,70577,SEDAN,,2017-01-06,2017,,675000.0,1.0,Karnataka,Anant Cars Auto Pvt Ltd,Bangalore,1,7.9,0
+560659,Maruti Suzuki,ERTIGA,ZXI,PETROL,Blue,76259,MPV,,2013-01-07,2013,,600000.0,1.0,Karnataka,NK Cars,Bangalore,1,7.6,0
+560662,Maruti Suzuki,SWIFT,LXI,PETROL,Silver,85000,HATCHBACK,Manual,2015-01-02,2015,,480000.0,3.0,Karnataka,NK Cars,Bangalore,0,7.4,0
+560666,Hyundai,I10,MAGNA,PETROL,Red,77000,HATCHBACK,Manual,2008-01-05,2008,,240000.0,2.0,Karnataka,NK Cars,Bangalore,0,7.2,0
+561152,Volkswagen,AMEO,HIGHLINE 1.0L PLUS (P),PETROL,Steel grey,29416,SEDAN,,2018-01-07,2018,,650000.0,1.0,Karnataka,Anant Cars Auto Pvt Ltd,Bangalore,1,8.1,0
+562571,Maruti Suzuki,CELERIO,ZXI O MT,PETROL,Red,64277,HATCHBACK,MANUAL,2017-01-09,2017,,500000.0,2.0,Karnataka,Adeep Motors,Bangalore,1,7.7,0
+563909,Hyundai,CRETA(2018-2019),CRDI 1.4 E PLUS,DIESEL,Red,51078,SUV,,2018-01-09,2018,,1135000.0,1.0,Karnataka,ACE MOTORS,Bangalore,1,7.8,0
+565125,Maruti Suzuki,VITARA BREZZA,VDI O,DIESEL,Red,66535,SUV,,2017-01-04,2017,,875000.0,1.0,Karnataka,Adeep Motors,Bangalore,1,8.1,0
+566113,Honda,JAZZ,1.2 V I VTEC,PETROL,Orange,53377,HATCHBACK,,2016-01-01,2016,,595000.0,1.0,Karnataka,Top Gear Cars,Bangalore,1,7.7,0
+568086,Hyundai,GRAND I10,ASTA 1.2 KAPPA VTVT,PETROL,Marine blue,19365,HATCHBACK,Manual,2019-01-01,2019,,675000.0,1.0,Karnataka,Adeep Motors,Bangalore,1,7.9,0
+568670,Renault,DUSTER,RXL PETROL 104,PETROL,Brown,42773,SUV,Manual,2017-01-01,2017,,755000.0,1.0,Karnataka,Top Gear Cars,Bangalore,1,7.7,0
+569655,Nissan,MICRA ACTIVE,XL,PETROL,Silver,17511,HATCHBACK,Manual,2015-01-11,2015,,409999.99999999994,2.0,Karnataka,Top Gear Cars,Bangalore,1,8.1,0
