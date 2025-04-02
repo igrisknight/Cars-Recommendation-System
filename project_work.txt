@@ -1,2 +1,0 @@
-step 1. Data Pre Processing
-step 2. Creating item profile - item profile is made for the cars
